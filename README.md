@@ -52,7 +52,7 @@ https://youtu.be/br3OzOrARh4
 
 As I said I couldn't convert the game into a single .exe program, so the following way is the onle one to execute the game:
 ```
-$ python game.py
+$ python space_invaders.py
 ```
 
 
